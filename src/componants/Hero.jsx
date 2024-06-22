@@ -1,6 +1,6 @@
 const Hero = ({
-  title = "become a react dev",
-  subtitle = "find the react job",
+  title = "Become a react dev",
+  subtitle = "Find the react job",
 }) => {
   return (
     <section className="bg-indigo-700 py-20 mb-4">
@@ -13,7 +13,7 @@ const Hero = ({
         </div>
       </div>
     </section>
-  );
-};
+  )
+}
 
-export default Hero;
+export default Hero

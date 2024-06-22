@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Roboto", "sans-serif"],
+        sans: ["Poppins", "sans-serif"],
       },
       gridTemplateColumns: {
         "70/30": "70% 28%",
@@ -12,4 +12,4 @@ export default {
     },
   },
   plugins: [],
-};
+}
