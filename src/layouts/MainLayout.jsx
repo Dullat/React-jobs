@@ -1,13 +1,16 @@
-import { Outlet } from "react-router-dom";
-import Navbar from "../componants/NavBar.jsx";
+import { Outlet } from "react-router-dom"
+import Navbar from "../componants/NavBar.jsx"
+import { ToastContainer } from "react-toastify"
+import "react-toastify/dist/ReactToastify.css"
 
 const MainLayout = () => {
   return (
     <>
       <Navbar />
       <Outlet />
+      <ToastContainer />
     </>
-  );
-};
+  )
+}
 
-export default MainLayout;
+export default MainLayout

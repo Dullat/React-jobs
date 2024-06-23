@@ -1,8 +1,12 @@
-# React + Vite
+# Used React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+it is a job listing webApp allow Developers and Companies to show, browse, add, edit and delete jobs
 
-Currently, two official plugins are available:
+**_used:_**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Vite
+- json server
+- React-Router
+
+as it is using a local server so no live preview is avalable
